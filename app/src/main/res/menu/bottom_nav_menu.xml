@@ -8,9 +8,9 @@
         android:icon="@drawable/ic_dashboard"
         android:title="Dashboard" />
     <item
-        android:id="@+id/adele"
+        android:id="@+id/nav_search"
         android:icon="@drawable/ic_search"
-        android:title="Adele" />
+        android:title="Search" />
     <item
         android:id="@+id/nav_settings"
         android:icon="@drawable/ic_settings"

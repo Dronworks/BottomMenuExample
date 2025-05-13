@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity {
                 selectedFragment = new DashboardFragment();
             } else if (itemId == R.id.nav_settings) {
                 selectedFragment = new SettingsFragment();
+            } else if (itemId == R.id.nav_search) {
+                selectedFragment = new SearchFragment();
             } else {
                 selectedFragment = new HomeFragment(); // fallback
             }
