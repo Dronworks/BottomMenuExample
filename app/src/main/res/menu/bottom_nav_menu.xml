@@ -8,6 +8,10 @@
         android:icon="@drawable/ic_dashboard"
         android:title="Dashboard" />
     <item
+        android:id="@+id/adele"
+        android:icon="@drawable/ic_search"
+        android:title="Adele" />
+    <item
         android:id="@+id/nav_settings"
         android:icon="@drawable/ic_settings"
         android:title="Settings" />
